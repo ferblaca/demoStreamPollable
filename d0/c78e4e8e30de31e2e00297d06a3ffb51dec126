@@ -1,0 +1,30 @@
+.gitattributes
+  h_19ae496347280f 1-2
+.gitignore
+  h_19ae496347280f 1-33
+.mvn/wrapper/maven-wrapper.properties
+  h_19ae496347280f 1-3
+mvnw
+  h_19ae496347280f 1-295
+mvnw.cmd
+  h_19ae496347280f 1-189
+pom.xml
+  h_19ae496347280f 1-103
+src/main/java/com/example/demoStreamPollable/DemoStreamPollableApplication.java
+  h_19ae496347280f 1-13
+src/main/resources/application.properties
+  h_19ae496347280f 1
+src/test/java/com/example/demoStreamPollable/SpringCloudStreamPollableKafkaMetricsTests.java
+  h_19ae496347280f 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "d0c78e4e8e30de31e2e00297d06a3ffb51dec126",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
