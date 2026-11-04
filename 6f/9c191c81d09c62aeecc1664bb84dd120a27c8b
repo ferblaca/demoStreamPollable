@@ -1,0 +1,14 @@
+src/test/java/com/example/demoStreamPollable/PollableSpringIntegrationMetricsTests.java
+  h_19ae496347280f 1-180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "6f9c191c81d09c62aeecc1664bb84dd120a27c8b",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
